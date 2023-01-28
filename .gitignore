@@ -22,3 +22,29 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+new/.gitignore
+new/package.json
+new/vite.config.js
+new/public/vite.svg
+new/src/App.css
+new/src/App.jsx
+new/src/App.test.jsx
+new/src/index.css
+new/src/index.html
+new/src/index.js
+new/src/report.js
+new/src/setup.js
+new/src/assets/react.svg
+tic tac toe/tic/.gitignore
+tic tac toe/tic/index.html
+tic tac toe/tic/package-lock.json
+tic tac toe/tic/package.json
+tic tac toe/tic/vite.config.js
+tic tac toe/tic/public/vite.svg
+index.html
+src/App.css
+src/index.css
+src/main.jsx
+src/App.css
+src/index.css
+src/main.jsx
